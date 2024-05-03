@@ -1,9 +1,9 @@
 [
     {"date": "This .JSON file has been created on: 03.05.24 @ 12:16"},
-    {"explenation":" id: 0 - 44 = movies from: 1990 - 1999"},
-    {"explenation":" id: 45 - 78 = movies from: 2000 - 2009"},
-    {"explenation":" id: 79 - 119 = movies from: 2010 - 2020"},
-    {"explenation":" id: 120 - 162 = TV-Series from: 2000 - 2020"},
+    {"explenation":" -id: 0 - 44 = movies from: 1990 - 1999"},
+    {"explenation":" -id: 45 - 78 = movies from: 2000 - 2009"},
+    {"explenation":" -id: 79 - 119 = movies from: 2010 - 2020"},
+    {"explenation":" -id: 120 - 162 = TV-Series from: 2000 - 2020"},
     {
         "id": 0,
         "title": "Pulp Fiction",
