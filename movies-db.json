@@ -1,6 +1,6 @@
 [
     {"date": "This .JSON file has been created on: 03.05.24 @ 12:16"},
-    {"explenation":" id: 1 - 44 = movies from: 1990 - 1999"},
+    {"explenation":" id: 0 - 44 = movies from: 1990 - 1999"},
     {"explenation":" id: 45 - 78 = movies from: 2000 - 2009"},
     {"explenation":" id: 79 - 119 = movies from: 2010 - 2020"},
     {"explenation":" id: 120 - 162 = TV-Series from: 2000 - 2020"},
@@ -225,7 +225,7 @@
         "poster": "https://images.wolfgangsvault.com/m/xlarge/ZZZ061555-PO/american-history-x-poster-oct-30-1998.webp"
     },
     {
-        "id": 22,
+        "id": 20,
         "title": "Fight Club",
         "published": 1999,
         "director": "David Fincher",
